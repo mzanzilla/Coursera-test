@@ -7,7 +7,7 @@
 }
 
 h1 {
-	font-family: "Arial Black", Gadget, sans-serif ;
+	font-family: "Arial Black", sans-serif ;
 	color: #000000;
 	text-align: center;
 }
@@ -51,7 +51,7 @@ section {
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
-	font-size: 125%;
+	font-size: 130%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
@@ -65,7 +65,7 @@ section {
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
-	font-size: 125%;
+	font-size: 130%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
@@ -79,7 +79,7 @@ section {
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
-	font-size: 125%;
+	font-size: 130%;
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #bf8209;
